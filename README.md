@@ -29,7 +29,7 @@ Purpose
 | q_p3                    | total revenue for product 3             | NUMERIC        |
 | q_p4                    | total revenue for product 4             | NUMERIC        |
 
-# Methods Used: 
+## Methods Used: 
 1. Collect Data [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data/data)
 2. Data Cleaning
 * Make sure there is no NULL values.
@@ -69,24 +69,24 @@ Customer Purchase Analysis:
 2. Which months have the highest sales?
 3. What year performed the best? 
 
-## Sales Performance Analysis
+### Sales Performance Analysis
 1. How much revenue in total did the all products bring in each year?
 2. What month had the highest revenue in total?
 3. Which specific day of the week generates the most revenue?
 
-## Product Analysis
+### Product Analysis
 1. What is the average units sold for each product year to year?
 2. What is the total quantity of products sold in each year?
 3. How much revenue did each product bring in yearly?
 4. Calculate the percent change in revenue year to year. Which year performed the best? 
 
-## Customer Purchase Analysis
+### Customer Purchase Analysis
 1. What month are the busiest time of the year?
 2. Which days of the week are customers most likely to buy?
 
 ## Code Used
 
-You can find the rest of the code here [sales_project]( insert link to SQL)
+You can find the rest of the code here [sales_project](https://github.com/excelwithcorey/sales_project/blob/main/sales_project_finish.sql)
 
 ```sql
 ----- Create Database -----
