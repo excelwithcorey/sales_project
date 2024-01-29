@@ -6,13 +6,15 @@
 
 ## About
 
-This projects aim is to discover sales analysis for (company).
+This projects aim is to discover sales analysis for a company that has four products from years 2010-2023.
 The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/ksabishek/product-sales-data/data). Thank you for uploading the data for everyone to use. 
 
-The goal of this project (what is the goal you are seeking to discover?) 
+The goal of this project is discover insights for the CEO and its performance of their business. Some limitations of this projects are: 2010 and 2023 does not include full years of sales data, 
+so we eliminated the two years in our findings. I will analyze the data to visualize the overall performance of the business. 
 
-Purpose 
-(what is the purpose of the project?)
+## Purpose 
+As a Data Analyst that is highly motivated in Business initiatives. It is important for a Business Owner to understand its financial health through analytics with a clear dashboard to 
+demonstrate areas that are doing well plus areas that need to improve. This will help make better data driven decisions and overall impactful business growth.  
 
 ## About the Data
 
@@ -83,6 +85,9 @@ Customer Purchase Analysis:
 ### Customer Purchase Analysis
 1. What month are the busiest time of the year?
 2. Which days of the week are customers most likely to buy?
+
+## Insights
+
 
 ## Code Used
 
